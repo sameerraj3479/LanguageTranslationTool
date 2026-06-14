@@ -36,12 +36,6 @@ CodeAlpha_LanguageTranslationTool/
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/sameerraj3479/CodeAlpha_LanguageTranslationTool.git
-```
-
 Navigate to the project directory:
 
 ```bash
